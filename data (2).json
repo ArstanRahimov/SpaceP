@@ -1,0 +1,1 @@
+[{"model": "account.user", "pk": "test1@gmail.com", "fields": {"password": "pbkdf2_sha256$260000$IDg2EfAZlThC0gKBGO7cc4$aY0qx0UdnktZ/bsEuuZUYFTLoSHPO7qkg59bOZPQ1LA=", "last_login": "2021-12-13T09:14:17.361Z", "name": "adilet", "is_active": true, "is_staff": true, "activation_code": ""}}]
